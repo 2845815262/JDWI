@@ -1,6 +1,6 @@
 # JDWI - Jelle Dekkers' Weather Icons
 
-![Preview of JDWI](/Preview.jpg)
+![Preview](/Preview.jpg)
 
 JDWI - Jelle Dekkers' Weather Icons - is a set of weather icons designed to complement Google's Material Design icons as well as possible. I was looking for decent icons for my weather skins, but I couldn't find any. So, I decided to do it myself.
 
